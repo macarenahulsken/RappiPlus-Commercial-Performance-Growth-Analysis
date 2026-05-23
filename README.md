@@ -52,3 +52,6 @@ The **'Vacuum'** product line serves as the primary engine for margin retention,
 * **Data Extraction & Manipulation:** SQL (Joins, CTEs, Window Functions)
 * **Exploratory Data Analysis & Statistics:** Python (Pandas, NumPy, Statsmodels for A/B Testing Inference)
 * **Data Visualization & BI Architecture:** Tableau Desktop / Tableau Public (Star-Schema relational model, advanced LOD expressions, and conditional formatting rules)
+
+## 🖥️ Interactive Dashboards
+https://public.tableau.com/app/profile/macarena.hulsken/viz/ProyectoRappiPlus/OverviewEjecutivo
