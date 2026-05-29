@@ -1,5 +1,12 @@
 # RappiPlus Commercial Performance & Unit Economics Audit
 
+## 🖥️ Interactive Dashboards
+https://public.tableau.com/app/profile/macarena.hulsken/viz/ProyectoRappiPlus/OverviewEjecutivo
+
+**[LinkedIn](www.linkedin.com/in/macarena-hulsken)**
+
+Mail: macarenahulsken@gmail.com
+
 ## 📝 Project Overview
 This repository contains an end-to-end Unit Economics and profitability audit for **RappiPlus**. Leveraging a robust data architecture, this project integrates **SQL** for data manipulation, **Python (Pandas & Statsmodels)** for exploratory data analysis and hypothesis testing, and **Tableau** for advanced interactive dashboard deployment. The primary objective is to mitigate margin compression, optimize multi-channel marketing expenditure, and implement data governance to stop structural profit leakages.
 
@@ -53,5 +60,3 @@ The **'Vacuum'** product line serves as the primary engine for margin retention,
 * **Exploratory Data Analysis & Statistics:** Python (Pandas, NumPy, Statsmodels for A/B Testing Inference)
 * **Data Visualization & BI Architecture:** Tableau Desktop / Tableau Public (Star-Schema relational model, advanced LOD expressions, and conditional formatting rules)
 
-## 🖥️ Interactive Dashboards
-https://public.tableau.com/app/profile/macarena.hulsken/viz/ProyectoRappiPlus/OverviewEjecutivo
